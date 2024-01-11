@@ -1,5 +1,5 @@
 # UAS-Kecerdasan-Buatan
-Kelompok 
+Kelompok :
 Ahmad Baihaqi Muslim 32602100010 |
 Alif Hakim Al Faruq 32602100021 |
 David Kurnia Rahman 32602100036 |
